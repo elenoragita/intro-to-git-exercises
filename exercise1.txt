@@ -1,0 +1,9 @@
+1. Add noise function
+    - Use git status and git diff to check the changes.
+    - Use git add and git commit to commit the changes.
+2. Add feed function
+3. Add info function and list_animals function
+    - Add and commit both files into one commit
+4. Checkout one of the earlier commits
+5. Checkout the latest commit
+6. Revert one of the commits (not the initial commit!)
