@@ -1,0 +1,9 @@
+1. Create a new branch
+    - Use git checkout –b <branch> 
+2. Add (and commit) the add_animal function
+3. Switch between master and new branch
+    - Use git branch to see all the branches
+    - Use git checkout <branch> to switch
+4. Merge new branch into master
+    - Switch to master branch using
+    - Use git merge <branch> to merge in commits from new branch
