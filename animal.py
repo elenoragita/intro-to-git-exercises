@@ -27,7 +27,7 @@ class Animal():
         """
         Print the noise the animal makes.
         """
-        pass
+        print(self.noise)
 
     def feed(self):
         """
